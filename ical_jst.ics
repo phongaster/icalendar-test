@@ -6,6 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Test Calendar
 BEGIN:VTIMEZONE
 TZID:Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
 TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Tokyo
 BEGIN:STANDARD
 DTSTART:19700101T000000
